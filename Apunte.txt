@@ -1,0 +1,5 @@
+git init *Inicializa proyecto
+git status *Muestra es estado
+git add *agrega archivos al repositorio inicializado
+git commit -m "mensaje"
+git 
